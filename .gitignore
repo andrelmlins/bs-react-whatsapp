@@ -1,0 +1,4 @@
+.merlin
+*.bs.js
+node_modules
+lib
